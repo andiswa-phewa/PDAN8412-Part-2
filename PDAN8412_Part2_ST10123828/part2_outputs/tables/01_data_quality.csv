@@ -1,0 +1,17 @@
+,dtype,missing,missing_pct
+asin,object,0,0.0
+title,object,0,0.0
+author,object,425,0.32
+soldBy,object,9233,6.94
+imgUrl,object,0,0.0
+productURL,object,0,0.0
+stars,float64,0,0.0
+reviews,int64,0,0.0
+price,float64,0,0.0
+isKindleUnlimited,bool,0,0.0
+category_id,int64,0,0.0
+isBestSeller,bool,0,0.0
+isEditorsPick,bool,0,0.0
+isGoodReadsChoice,bool,0,0.0
+publishedDate,object,49016,36.83
+category_name,object,0,0.0

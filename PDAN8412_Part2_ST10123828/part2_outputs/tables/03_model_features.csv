@@ -1,0 +1,38 @@
+feature
+numeric__price
+numeric__title_word_count
+numeric__published_year
+numeric__missingindicator_published_year
+categorical__category_name_Arts & Photo graphy
+categorical__category_name_Biographies & Memoirs
+categorical__category_name_Business & Money
+categorical__category_name_Children's eBooks
+categorical__category_name_Comics
+categorical__category_name_Computers & Technology
+"categorical__category_name_Cookbooks, Food & Wine"
+"categorical__category_name_Crafts, Hobbies & Home"
+categorical__category_name_Education & Teaching
+categorical__category_name_Engineering & Transportation
+categorical__category_name_Foreign Language
+"categorical__category_name_Health, Fitness & Dieting"
+categorical__category_name_History
+categorical__category_name_Humor & Entertainment
+categorical__category_name_LGBTQ+ eBooks
+categorical__category_name_Law
+categorical__category_name_Literature & Fiction
+categorical__category_name_Medical
+"categorical__category_name_Mystery, Thriller & Suspense"
+categorical__category_name_Nonfiction
+categorical__category_name_Parenting & Relationships
+categorical__category_name_Politics & Social Sciences
+categorical__category_name_Reference
+categorical__category_name_Religion & Spirituality
+categorical__category_name_Romance
+categorical__category_name_Science & Math
+categorical__category_name_Science Fiction & Fantasy
+categorical__category_name_Self-Help
+categorical__category_name_Sports & Outdoors
+categorical__category_name_Teen & Young Adult
+categorical__category_name_Travel
+categorical__isKindleUnlimited_False
+categorical__isKindleUnlimited_True

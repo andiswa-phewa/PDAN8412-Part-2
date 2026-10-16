@@ -1,0 +1,38 @@
+encoded_feature,weight,absolute_weight
+categorical__isKindleUnlimited_False,-0.8333379387887346,0.8333379387887346
+numeric__price,-0.7417316637592114,0.7417316637592114
+categorical__isKindleUnlimited_True,0.725425547455371,0.725425547455371
+categorical__category_name_LGBTQ+ eBooks,-0.44745651448462576,0.44745651448462576
+categorical__category_name_Science & Math,0.4266229846417954,0.4266229846417954
+categorical__category_name_Literature & Fiction,0.33672059512193375,0.33672059512193375
+numeric__missingindicator_published_year,-0.3344386163931106,0.3344386163931106
+categorical__category_name_Children's eBooks,0.31453352428401,0.31453352428401
+categorical__category_name_Biographies & Memoirs,0.29338967008984307,0.29338967008984307
+categorical__category_name_Politics & Social Sciences,0.2778059736714346,0.2778059736714346
+"categorical__category_name_Cookbooks, Food & Wine",-0.2445299909486868,0.2445299909486868
+categorical__category_name_Teen & Young Adult,0.21390786702338355,0.21390786702338355
+categorical__category_name_Humor & Entertainment,-0.2113854471447886,0.2113854471447886
+numeric__title_word_count,0.20471088202932858,0.20471088202932858
+categorical__category_name_Science Fiction & Fantasy,-0.19621470298306085,0.19621470298306085
+categorical__category_name_Foreign Language,-0.17068008471068444,0.17068008471068444
+categorical__category_name_Sports & Outdoors,-0.1682383628791424,0.1682383628791424
+categorical__category_name_History,0.15731765987662807,0.15731765987662807
+categorical__category_name_Religion & Spirituality,0.15655563671363507,0.15655563671363507
+categorical__category_name_Law,-0.15587367933858015,0.15587367933858015
+categorical__category_name_Parenting & Relationships,-0.1525524056921969,0.1525524056921969
+categorical__category_name_Self-Help,-0.1478861466192918,0.1478861466192918
+categorical__category_name_Nonfiction,0.14339598069175738,0.14339598069175738
+categorical__category_name_Romance,-0.12037289977202871,0.12037289977202871
+categorical__category_name_Business & Money,0.11469236390056428,0.11469236390056428
+categorical__category_name_Computers & Technology,-0.1139152667116702,0.1139152667116702
+categorical__category_name_Medical,-0.09432482155492547,0.09432482155492547
+"categorical__category_name_Mystery, Thriller & Suspense",-0.09207745885372932,0.09207745885372932
+"categorical__category_name_Crafts, Hobbies & Home",-0.09133963979058639,0.09133963979058639
+"categorical__category_name_Health, Fitness & Dieting",0.07886800043306234,0.07886800043306234
+numeric__published_year,0.0773255962872659,0.0773255962872659
+categorical__category_name_Education & Teaching,-0.07594225876536019,0.07594225876536019
+categorical__category_name_Travel,-0.06656364183356317,0.06656364183356317
+categorical__category_name_Arts & Photo graphy,-0.030849991832704562,0.030849991832704562
+categorical__category_name_Reference,-0.02155939760182866,0.02155939760182866
+categorical__category_name_Comics,-0.013756661513648906,0.013756661513648906
+categorical__category_name_Engineering & Transportation,-0.006203274750317399,0.006203274750317399

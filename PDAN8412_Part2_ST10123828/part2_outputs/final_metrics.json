@@ -1,0 +1,31 @@
+{
+  "selected_model": "Balanced + L2",
+  "validation_chosen_threshold": 0.72,
+  "test_n": 19966,
+  "test_bestsellers": 336,
+  "test_accuracy": 0.910547931483522,
+  "test_precision": 0.060072815533980584,
+  "test_recall": 0.29464285714285715,
+  "test_f1": 0.09979838709677419,
+  "test_roc_auc": 0.7776706874802901,
+  "test_average_precision": 0.057504084533679695,
+  "test_baseline_majority_accuracy": 0.9831713913653211,
+  "true_negative": 18081,
+  "false_positive": 1549,
+  "false_negative": 237,
+  "true_positive": 99,
+  "spark_executed_in_this_run": false,
+  "spark_status": "NOT EXECUTED: NumberFormatException: [CAST_INVALID_INPUT] The value 'False' of the type \"STRING\" cannot be cast to \"INT\" because it is malformed. Correct the value as per the syntax, or change its target type. Use `try_cast` to tolerate ",
+  "all_records": 133102,
+  "all_bestsellers": 2236,
+  "rows_train": 93171,
+  "rows_val": 19965,
+  "rows_test": 19966,
+  "features_used": [
+    "price",
+    "title_word_count",
+    "published_year",
+    "category_name",
+    "isKindleUnlimited"
+  ]
+}
