@@ -1,7 +1,7 @@
 # PDAN8412/w Part 2: Predicting Kindle Bestsellers
 
 **Student Number:** ST10123828  
-**Student Name:** Andiswa Sibusisiwe Phewa
+**Student Name:** Andiswa Sibusisiwe Phewa  
 **Module:** Programming for Data Analytics 2
 
 ## About the Project
